@@ -1,0 +1,5 @@
+{
+    "cmd": ["./make.sh"],
+    "shell": true,
+    "working_dir": "${file_path}"
+}
